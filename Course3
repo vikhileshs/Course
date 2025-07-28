@@ -9,3 +9,7 @@ Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
+
+Vikhilesh Sakhare 
+Algorithm Analysis
+Algorithm analysis is the systematic evaluation of computational complexity, focusing on time and space efficiency of algorithms. It involves studying how algorithms perform as input size grows using Big O notation to classify their behavior. This fundamental skill helps in choosing optimal solutions and understanding trade-offs between different algorithmic approaches.
